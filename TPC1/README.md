@@ -10,7 +10,7 @@ Sara Beatriz Magalhães Gonçalves, a115755
 
 Foi requerida a elaboração de dois jogos no Blockly Games, sendo respetivamente, o nível 10 do jogo Maze e o Turtle onde foi recriada uma imagem proposta pelo professor. 
 
-## Lista de < Resultados >
+## Lista de resultados
 
 * ## Maze
 [Maze](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC1/maze.png)
