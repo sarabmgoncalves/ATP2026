@@ -13,10 +13,11 @@ Foi requerida a elaboração de dois jogos no Blockly Games, sendo respetivament
 ## Lista de Resultados
 
 * ## Maze
-[maze](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC1/maze.png)
+[Maze](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC1/maze.png)
 
 
 * ## Turtle 
-[barco resultado](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC1/barco_imagem.png)
-[barco resolução](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC1/barco.png)
+[Resultado do Barco](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC1/barco_imagem.png)
+
+[Resolução do Barco](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC1/barco.png)
 
