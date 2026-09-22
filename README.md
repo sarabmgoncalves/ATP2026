@@ -12,7 +12,7 @@ Este repositório reúne o conjunto de trabalhos de casa propostos pelo professo
 
 O principal objetivo deste repositório é facilitar a organização, consulta e acessibilidade das resoluções realizadas, permitindo ao professor acompanhar e consultar os trabalhos desenvolvidos ao longo do semestre.
 
-## Lista de Resultados
+## Lista de resultados
 
 [TPC1](https://github.com/sarabmgoncalves/ATP2026/tree/main/TPC1)
 
