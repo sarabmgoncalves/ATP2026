@@ -4,7 +4,7 @@
 
 Sara Beatriz Magalhães Gonçalves, a115755
 
-![Minha imagem](imagens/foto.jpeg)
+![Minha imagem](foto.jpeg)
 
 ## Resumo
 
@@ -13,9 +13,9 @@ Foi requerida a elaboração de dois jogos no Blockly Games, sendo respetivament
 ## Lista de Resultados
 
 * ## Maze
-![maze](imagens/maze.png)
+![maze](maze.png)
 
 * ## Turtle 
-![barco resultado](imagens/barco_imagem.png)
-![barco code](imagens/barco.png)
+![barco resultado](barco_imagem.png)
+![barco code](barco.png)
 
