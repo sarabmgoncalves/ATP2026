@@ -4,7 +4,8 @@
 
 Sara Beatriz Magalhães Gonçalves, a115755
 
-![Minha imagem](foto.jpeg) <img aling= "rigth" width="100" heigth="100" alt="foto.jpeg">
+<img width="160" height="120" alt="foto" src="https://github.com/user-attachments/assets/3f2029d0-d85d-4693-9c9d-78ac02b31b8e" />
+
 
 ## Resumo
 
