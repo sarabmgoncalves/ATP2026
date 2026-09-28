@@ -6,14 +6,14 @@ menu= input("Escolha o jogo que deseja jogar:")
 
 if menu == "a":
     numero_secreto = random.randint(0, 100)
-    tentativas = 0
+    t = 0
 
     while True:
         palpite = int(input("\n Escolha um número entre 0 e 100: ")) 
-        tentativas += 1
+        t += 1
 
         if palpite == numero_secreto:
-            print(f"Parabéns, o número era {palpite}! Descobriste o número em {tentativas} tentativa(s).")
+            print(f"Parabéns, o número era {palpite}! Descobriste o número em {t} tentativa(s).")
             break
         elif palpite < numero_secreto:
             print("O número que pensei é Maior")
@@ -29,7 +29,7 @@ if menu== "b":
 
     while resposta != "Acertas-te":
         palpite = (limite_inferior + limite_superior) // 2
-        tentativas = tentativas + 1
+        t= t + 1
 
         print(f"\nO número é {palpite}?")
         resposta = input("Resposta: ")
@@ -39,4 +39,4 @@ if menu== "b":
         elif resposta == "O número que selecionei é Menor":
             limite_superior = palpite - 1
 
-    print(f"O número era {palpite}. Acertei em {tentativas} tentativa(s)!")
+    print(f"O número era {palpite}. Acertei em {t} tentativa(s)!")
