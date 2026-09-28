@@ -4,7 +4,7 @@
 
 Sara Beatriz Magalhães Gonçalves, a115755
 
-<img width="200" height="160" alt="foto" src="https://github.com/user-attachments/assets/6261d04f-d863-4ddc-9100-29ef71e3f416" />
+<img width="160" height="120" alt="foto" src="https://github.com/user-attachments/assets/6261d04f-d863-4ddc-9100-29ef71e3f416" />
 
 
 ## Resumo
