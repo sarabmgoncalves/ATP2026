@@ -4,7 +4,7 @@
 
 Sara Beatriz Magalhães Gonçalves, a115755
 
-![Minha imagem](foto.jpeg)
+![Minha imagem](foto.jpeg) <img aling= "rigth" width="100" heigth="100" alt="foto.jpeg">
 
 ## Resumo
 
