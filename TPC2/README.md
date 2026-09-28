@@ -10,7 +10,7 @@ Sara Beatriz Magalhães Gonçalves, a115755
 
 Foi pedido pelo professor a elaboração de um programa em Python do jogo "Adivinha o número", jogo esse que possui duas modalidades; o computador pensar num número entre 0 e 100 e o utilizador pensar num número entre 0 e 100 .O objetivo principal deste trabalho de casa  é aplicar e consolidar conceitos fundamentais de lógica de programação, com foco especial na estruturação de ciclos de repetição, condições de decisão e manipulação de variáveis ​​de entrada e saída.
 
-## Lista de Resultados
+## Lista de resultados
 ```
 import random
 
