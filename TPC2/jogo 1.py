@@ -9,11 +9,13 @@ if menu == "a":
     t = 0
 
     while True:
-        palpite = int(input("\n Escolha um número entre 0 e 100: ")) 
+        palpite = int(input("\n Escolha um número entre 0 e 100: "))
         t += 1
 
         if palpite == numero_secreto:
             print(f"Parabéns, o número era {palpite}! Descobriste o número em {t} tentativa(s).")
+        elif palpite<0 or palpite >100:
+            print("Apenas pode colocar números entre 0 e 100.")
         elif palpite < numero_secreto:
             print("O número que pensei é Maior")
         else:
@@ -22,7 +24,7 @@ if menu == "a":
 if menu== "b":
     limite_inferior=0
     limite_superior=100
-    tentativas = 0
+    t= 0
 
     resposta = ""
 
@@ -32,7 +34,6 @@ if menu== "b":
 
         print(f"\nO número é {palpite}?")
         resposta = input("Resposta: ")
-
         if resposta == "O número que selecionei é Maior":
             limite_inferior = palpite + 1
         elif resposta == "O número que selecionei é Menor":
