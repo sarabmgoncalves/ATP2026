@@ -14,7 +14,6 @@ if menu == "a":
 
         if palpite == numero_secreto:
             print(f"Parabéns, o número era {palpite}! Descobriste o número em {t} tentativa(s).")
-            break
         elif palpite < numero_secreto:
             print("O número que pensei é Maior")
         else:
