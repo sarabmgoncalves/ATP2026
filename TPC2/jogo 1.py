@@ -28,7 +28,7 @@ if menu== "b":
 
     resposta = ""
 
-    while resposta != "Acertas-te":
+    while resposta != "Acertaste":
         palpite = (limite_inferior + limite_superior) // 2
         t= t + 1
 
