@@ -1,8 +1,8 @@
 import random
 
-menu=((input("Escolha quem iniciará o jogo,(c=Computador/j=Jogador): ")))
-
-if menu != "c" and menu != "j":
+menu=(input("Escolha quem iniciará o jogo,(c=Computador/j=Jogador): "))
+    
+while menu != "c" and menu != "j":
     menu=(input("Apenas pode selecionar c ou j,sendo c = computador e j= jogador,para puder escolher quem inicializa o jogo: "))
 
 if menu=="c":
