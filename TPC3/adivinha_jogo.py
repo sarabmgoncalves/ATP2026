@@ -18,7 +18,6 @@ if menu=="c":
     if soma==100:
         print("O computador ganhou!")
 
-
 if menu=="j":
     n=0
     soma=0
