@@ -8,10 +8,11 @@ if menu != "c" and menu != "j":
 if menu=="c":
     N=1
     soma=1
+    print(f"O computador selecionou o número {N}, a soma atual é {soma}")
+
     while soma<100:
-        N=print(f"O computador selecionou o número {N}, a soma atual é {soma}")
         x = int(input("Insira um número: "))
-        if x<0 or x>10:
+        if x<1 or x>10:
             x=int(input("Apenas pode introduzir um número entre 1 e 10, tente novamente: "))
         N= 11-x
         soma = soma + N + x
