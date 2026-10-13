@@ -21,4 +21,5 @@ O principal objetivo deste repositório é facilitar a organização, consulta e
 
 [TPC3](https://github.com/sarabmgoncalves/ATP2026/tree/main/TPC3)
 
+[TPC4](https://github.com/sarabmgoncalves/ATP2026/tree/main/TPC4)
 
