@@ -7,7 +7,7 @@ Sara Beatriz Magalhães Gonçalves, a115755
 
 ## Resumo
 
-Foi proposta a elaboração de uma aplicação com o objetivo de manipular listas, tuplos e ficheiros. A aplicação apresenta ao utilizador um menu com várias opções, permitindo realizar diferentes operações sobre uma turma de alunos. Entre as funcionalidades disponíveis encontram-se a criação de uma turma, a inserção de alunos, a listagem dos elementos da turma, a consulta de um aluno através do seu identificador (ID), o armazenamento da informação num ficheiro, o carregamento dos dados previamente guardados e, por fim, a saída da aplicação. 
+Foi proposta a elaboração de uma aplicação com o objetivo de manipular listas, tuplos e ficheiros. A aplicação apresenta ao utilizador um menu com várias opções, permitindo realizar diferentes operações sobre uma turma de alunos. Entre as funcionalidades disponíveis encontram-se a criação de uma turma, a inserção de alunos, a listagem dos elementos da turma, a consulta de um aluno através do seu id (ID), o armazenamento da informação num ficheiro, o carregamento dos dados previamente guardados e, por fim, a saída da aplicação. 
 
 ## Lista de resultados
 [Código](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC5/ATP5.py)
