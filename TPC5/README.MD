@@ -12,4 +12,4 @@ Foi proposta a elaboração de uma aplicação em Python com o objetivo de manip
 ## Lista de resultados
 [Código](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC5/ATP5.py)
 
-[Ficheiro]()
+[Ficheiro](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC5/turma_atp5.txt)
