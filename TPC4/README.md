@@ -16,5 +16,5 @@ Este trabalho tem como objetivo aprofundar a utilização de funções e a manip
 
 ## Lista de resultados
 
-[TPC4](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC4/aplica%C3%A7%C3%A3o.py)
+[Código](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC4/aplica%C3%A7%C3%A3o.py)
 
