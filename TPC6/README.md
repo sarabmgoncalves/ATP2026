@@ -30,6 +30,6 @@ O menu apresenta 9 opções:
   (0) Sair
 
 ## Lista de resultados
-[Código]
+[Código](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC6/tpc6.py)
 
 [Ficheiro]
