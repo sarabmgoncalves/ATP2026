@@ -11,16 +11,23 @@ Foi proposta a elaboração de um programa com o objetivo de manipular listas, t
 
 As opções apresentadas ao utilizador:
 
-(1) Carregar ficheiro 
-(2) Gravar ficheiro
-(3) Temperatura média
-(4) Temperatura mínima
-(5) Calcular a amplitude térmica
-(6) Valor máximo de precipitação registada com
-(7) Dias de precipitação superior ao limite definido
-(8) Maior número consecutivo de dias com precipitação abaixo do limite definido
-(0) Sair
+(1) Carregar tabela metereológica de um ficheiro
 
+(2) Gravar tabela metereológica num ficheiro 
+
+(3) Temperatura média de cada dia
+
+(4) Temperatura mínima mais baixa registada 
+
+(5) Calcular a amplitude térmica de cada dia
+
+(6) Valor máximo de precipitação registada
+
+(7) Dias de precipitação superior ao limite definido
+
+(8) Maior número consecutivo de dias com precipitação abaixo do limite definido
+
+(0) Sair
 
 ## Lista de resultados
 [Código]
