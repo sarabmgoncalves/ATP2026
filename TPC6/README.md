@@ -32,4 +32,4 @@ O menu apresenta 9 opções:
 ## Lista de resultados
 [Código](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC6/tpc6.py)
 
-[Ficheiro]
+[Ficheiro](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC6/meteorologia.txt)
