@@ -11,23 +11,23 @@ Foi proposta a elaboração de um programa com o objetivo de manipular listas, t
 
 O menu apresenta 9 opções:
 
-                          (1) Carregar tabela meteorológica de um ficheiro
+  (1) Carregar tabela meteorológica de um ficheiro
                           
-                          (2) Gravar tabela meteorológica num ficheiro 
+  (2) Gravar tabela meteorológica num ficheiro 
                           
-                          (3) Temperatura média de cada dia
+  (3) Temperatura média de cada dia
                           
-                          (4) Temperatura mínima mais baixa registada 
+  (4) Temperatura mínima mais baixa registada 
                           
-                          (5) Calcular a amplitude térmica de cada dia
+  (5) Calcular a amplitude térmica de cada dia
                           
-                          (6) Valor máximo de precipitação registada
+  (6) Valor máximo de precipitação registada
                           
-                          (7) Dias de precipitação superior ao limite definido
+  (7) Dias de precipitação superior ao limite definido
                           
-                          (8) Maior número consecutivo de dias com precipitação abaixo do limite definido
+  (8) Maior número consecutivo de dias com precipitação abaixo do limite definido
                           
-                          (0) Sair
+  (0) Sair
 
 ## Lista de resultados
 [Código]
