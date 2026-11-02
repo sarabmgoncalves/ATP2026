@@ -7,27 +7,27 @@ Sara Beatriz Magalhães Gonçalves, a115755
 
 ## Resumo
 
-Foi proposta a elaboração de um programa com o objetivo de manipular listas, tuplos e ficheiros. O programa apresenta ao utilizador um menu com várias opções, permitindo realizar diferentes operações sobre uma lista de tuplos. Nessa lista encontram-se dados meteorológicos referentes a datas específicas.
+Foi proposta a elaboração de um programa com o objetivo de manipular listas, tuplos e ficheiros. O programa apresenta ao utilizador um menu com várias opções, permitindo realizar diferentes operações sobre uma lista de tuplos. Nessa lista encontram-se dados meteorológicos, sendo esses, respetivamente, a temperatura mínima registada, temperatura máxima registada e precipitação, referentes a datas específicas.
 
-As opções apresentadas ao utilizador:
+O menu apresenta 9 opções:
 
-(1) Carregar tabela metereológica de um ficheiro
-
-(2) Gravar tabela metereológica num ficheiro 
-
-(3) Temperatura média de cada dia
-
-(4) Temperatura mínima mais baixa registada 
-
-(5) Calcular a amplitude térmica de cada dia
-
-(6) Valor máximo de precipitação registada
-
-(7) Dias de precipitação superior ao limite definido
-
-(8) Maior número consecutivo de dias com precipitação abaixo do limite definido
-
-(0) Sair
+                          (1) Carregar tabela meteorológica de um ficheiro
+                          
+                          (2) Gravar tabela meteorológica num ficheiro 
+                          
+                          (3) Temperatura média de cada dia
+                          
+                          (4) Temperatura mínima mais baixa registada 
+                          
+                          (5) Calcular a amplitude térmica de cada dia
+                          
+                          (6) Valor máximo de precipitação registada
+                          
+                          (7) Dias de precipitação superior ao limite definido
+                          
+                          (8) Maior número consecutivo de dias com precipitação abaixo do limite definido
+                          
+                          (0) Sair
 
 ## Lista de resultados
 [Código]
