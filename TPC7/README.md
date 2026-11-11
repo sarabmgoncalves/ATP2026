@@ -9,5 +9,5 @@ Sara Beatriz Magalhães Gonçalves, a115755
 O objetivo deste trabalho é consolidar o uso de listas, dicionários, tuplos, ciclos e slices em Python. Primeiro, foram resolvidos exercícios de treino (pesquisa de texto, somas, ordenação e redução de números). Depois, foram desenvolvidos exercícios de manipulação de uma rede social (MyFaceBook), representada por uma lista de posts em dicionários, com funções para contar, pesquisar, inserir e remover posts, listar autores, analisar comentários e calcular a distribuição de posts por autor.
 
 ## Lista de resultados
-
+[Código](https://github.com/sarabmgoncalves/ATP2026/blob/main/TPC7/tpc7.ipynb)
 
